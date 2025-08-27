@@ -5,3 +5,4 @@ description = "Local AI chatbot for Matrix with infinite personalities, tool cal
 requires-python = ">=3.10"
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
